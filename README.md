@@ -31,8 +31,10 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Other Reports :
--
-    **1.** Create a _[Scenario Planning Tool (Customer Discount Approval)](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)_  
+
+- **Project objective:**
+  
+  **1.** Create a _[Scenario Planning Tool (Customer Discount Approval)](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)_  
 
    **2.** Create a _[Project Priority Matrix](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/Project_Priority%20Matrix.pdf)_ 
 
