@@ -30,19 +30,11 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-## Other Report :
+## Other Reports :
 
-- **Project objective:** 
+    **1.** Create a _[Scenario Planning Tool (Customer Discount Approval)](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)_  
 
-    **1.** Create report by _[Scenario Planning Tool (Customer Discount Approval)](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)_  
-
-   **2.** Create report by _[Project Priority Matrix](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/Project_Priority%20Matrix.pdf)_ 
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+   **2.** Create a _[Project Priority Matrix](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/Project_Priority%20Matrix.pdf)_ 
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
