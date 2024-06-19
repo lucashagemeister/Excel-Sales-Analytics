@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/customer_performance_report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/market_performance_vs_target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -30,6 +30,19 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+## Other Report :
+
+- **Project objective:** 
+
+    **1.** Create report by _[Scenario Planning Tool (Customer Discount Approval)](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)_  
+
+   **2.** Create report by _[Project Priority Matrix](https://github.com/lucashagemeister/Excel-Sales-Analytics/blob/main/Project_Priority%20Matrix.pdf)_ 
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
